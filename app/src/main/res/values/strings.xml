@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="default_notification_channel_id">testtest</string>
+    <string name="fcm_message">Произведено %d вычислений</string>
+    <string name="fcm_message_error">Ошибка</string>
+    <string name="fcm_message_error_help">Пуш должен быть такого формата, без секции \"notification\": \u007B\n
+  \"to\": \"%s\",\n
+  \"data\": \u007B\n
+    \"to_calc\": \"123456\"\n
+  \u007D\n
+\u007D</string>
+    <string name="channel_name">Канал для my application</string>
+    <string name="copy_clipboard_label">Скопировано в буфер обмена</string>
+    <string name="current_token">Текущий токен(нажмите, чтобы скопировать):\n%s"</string>
+    <string name="load_history">Идёт загрузка истории...</string>
+    <string name="not_response_token">токен от fcm не был получен</string>
+</resources>

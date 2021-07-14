@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "915219247549",
+    "project_id": "myhashapplication",
+    "storage_bucket": "myhashapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915219247549:android:f97bb04d893475b458a2d4",
+        "android_client_info": {
+          "package_name": "com.mksmbrtsh.myhashapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915219247549-7p97mnd2ums5uavkspobt6rhr6a9dapb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgaQ4aqArIk-yosByN20TctRRa9dqBMe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915219247549-7p97mnd2ums5uavkspobt6rhr6a9dapb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
