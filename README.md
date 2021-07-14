@@ -31,3 +31,10 @@ Recomendate replace YOURAPIKEY
 
 # LIB
 For calc used picosha2
+
+# Screenshots
+
+![image](https://github.com/mksmbrtsh/testpushandnativ/blob/main/screenshots/1.jpg)
+![image](https://github.com/mksmbrtsh/testpushandnativ/blob/main/screenshots/2.jpg)
+![image](https://github.com/mksmbrtsh/testpushandnativ/blob/main/screenshots/3.jpg)
+![image](https://github.com/mksmbrtsh/testpushandnativ/blob/main/screenshots/4.jpg)
